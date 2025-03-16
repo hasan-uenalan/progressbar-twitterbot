@@ -23,3 +23,7 @@ Now everytime the percentage changes the script should be creating a post. You c
 The code will compare the percentage of yesterday and today. If it detects that the percentage has changed (e.g.: yesterday: 10.xx%, today: 11.xx%) it will post otherwise it won't.
 
 ![.log file of the twitter bot](image.png)
+
+A post uses ASCII elements of the bot to visualize the progress and add the percentage at the end.
+
+![alt text](image-1.png)
