@@ -15,6 +15,8 @@ api_secret = ""
 ~~~ 
 3. Use a scheduling service (I used Cron) to run the script
 
+## How the script works
+
 Now everytime the percentage changes the script should be creating a post. You can use the created .log file to check if something seems to not work.
 
 
